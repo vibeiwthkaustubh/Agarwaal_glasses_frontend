@@ -1,0 +1,93 @@
+export const servicesData = [
+  {
+    id: "glass-partitions",
+    titleEn: "Glass Partitions",
+    titleHi: "ग्लास पार्टिशन्स (विभाजक)",
+    shortDescEn: "Acoustically conscious, floor-to-ceiling interior glass partitions that maximize ambient natural light while creating distinct living and working zones.",
+    shortDescHi: "आंतरिक ग्लास पार्टिशन्स जो प्राकृतिक रोशनी को अधिकतम करते हुए अलग-अलग कमरे व कार्य क्षेत्र बनाते हैं।",
+    fullDescEn: "Our bespoke interior glass partition systems offer seamless visual connection, spatial freedom, and contemporary architectural elegance. Ideal for living room divides, executive home studies, kitchen-dining separation, and office cabins without visual clutter.",
+    fullDescHi: "हमारे कस्टम इंटीरियर ग्लास पार्टिशन सिस्टम विजुअल खुलापन और आधुनिक वास्तुशिल्प लालित्य प्रदान करते हैं। बैठक, स्टडी रूम, किचन और ऑफिस केबिन के लिए आदर्श।",
+    image: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    featuresEn: ["Acoustic & spatial clarity", "Frameless or slimline profiles", "Custom room dividing layouts", "Warm interior ambiance"],
+    featuresHi: ["ध्वनि व स्थानिक स्पष्टता", "फ्रेमलेस या स्लिमलाइन डिज़ाइन", "कस्टम रूम डिवाइडिंग लेआउट", "आकर्षक आंतरिक वातावरण"],
+    tag: "Signature Interior"
+  },
+  {
+    id: "glass-doors",
+    titleEn: "Glass Doors",
+    titleHi: "ग्लास डोर्स (दरवाजे)",
+    shortDescEn: "Smooth sliding, pivot, and swing interior glass door systems combining quiet precision mechanisms with sophisticated luxury finishes.",
+    shortDescHi: "स्मूथ स्लाइडिंग, पिवट और स्विंग ग्लास डोर सिस्टम जो शांत एवं सटीक संचालन के साथ लक्जरी फिनिश प्रदान करते हैं।",
+    fullDescEn: "Engineered for effortless glide and quiet closing, our bespoke glass doors create grand transitions between rooms. Custom handles, minimalist hinges, and tailored tint options harmonize with your interior décor.",
+    fullDescHi: "सहज संचालन और शांत समापन के लिए निर्मित, हमारे ग्लास दरवाजे कमरों के बीच भव्य परिवर्तन लाते हैं। कस्टम हैंडल और परिष्कृत हिंज विकल्प।",
+    image: "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1200&q=80",
+    featuresEn: ["Sliding & pivot mechanisms", "Minimalist architectural hardware", "Heavy-duty smooth roller guides", "Bespoke pull handle designs"],
+    featuresHi: ["स्लाइडिंग और पिवट तंत्र", "न्यूनतम वास्तुशिल्प हार्डवेयर", "मजबूत स्मूथ रोलर गाइड", "कस्टम हैंडल डिज़ाइन"],
+    tag: "Architectural Movement"
+  },
+  {
+    id: "glass-railings",
+    titleEn: "Glass Railings",
+    titleHi: "ग्लास रेलिंग्स",
+    shortDescEn: "Minimalist interior glass railings and balustrades for staircases, mezzanines, and balconies that open up sightlines with steadfast safety.",
+    shortDescHi: "सीढ़ियों, मेज़ानाइन और बालकनियों के लिए पारदर्शी ग्लास रेलिंग जो सुरक्षा के साथ दृश्य को खुला बनाती हैं।",
+    fullDescEn: "Elevate your interior stairways and open mezzanine floors. Built with rigid structural mounting hardware and smooth beveled handrails, providing unobstructed views with clean architectural lines.",
+    fullDescHi: "अपनी सीढ़ियों और खुले मेज़ानाइन फर्श को ऊंचा उठाएं। मजबूत माउंटिंग हार्डवेयर और चिकने बेवेल्ड हैंड्रिल के साथ निर्मित।",
+    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+    featuresEn: ["Seamless stair balustrades", "Mezzanine & atrium safety", "Clean floor bracket mounts", "Continuous edge elegance"],
+    featuresHi: ["सटीक सीढ़ी रेलिंग", "मेज़ानाइन व एट्रियम सुरक्षा", "क्लीन फ्लोर माउंट्स", "सतत किनारों की सुंदरता"],
+    tag: "Safety & Openness"
+  },
+  {
+    id: "shower-enclosures",
+    titleEn: "Shower Enclosures",
+    titleHi: "शॉवर एन्क्लोज़र्स",
+    shortDescEn: "Luxury frameless and semi-framed shower cubicles custom-measured to keep your bathroom dry, hygienic, and spa-inspired.",
+    shortDescHi: "लक्ज़री फ़्रेमलेस शॉवर क्यूबिकल्स जो बाथरूम को सूखा, स्वच्छ और स्पा जैसा अनुभव प्रदान करते हैं।",
+    fullDescEn: "Transform everyday bathing into a sanctuary experience. Precision corner cubicles, sliding enclosures, and walk-in wet-room glass screens installed with anti-leak seals and premium moisture-resistant hardware.",
+    fullDescHi: "रोजमर्रा के स्नान को एक स्पा अनुभव में बदलें। कॉर्नर क्यूबिकल्स, स्लाइडिंग एन्क्लोजर और वॉक-इन ग्लास स्क्रीन।",
+    image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80",
+    featuresEn: ["Custom corner & inline cubicles", "Water-tight magnetic seals", "Moisture-resistant hardware", "Easy-to-clean glass surfaces"],
+    featuresHi: ["कस्टम कॉर्नर व इनलाइन केबिन", "वाटर-टाइट मैग्नेटिक सील", "नमी प्रतिरोधी हार्डवेयर", "साफ करने में आसान सतह"],
+    tag: "Modern Bathroom"
+  },
+  {
+    id: "designer-mirrors",
+    titleEn: "Designer Mirrors",
+    titleHi: "डिजाइनर मिरर्स (दर्पण)",
+    shortDescEn: "Artistic, custom-cut vanity mirrors, ambient backlit mirrors, and full-length dressing installations with pristine clarity.",
+    shortDescHi: "कलात्मक वैनिटी दर्पण, एम्बिएंट बैकलिट शीशे और बेदाग स्पष्टता वाले ड्रेसिंग मिरर इंस्टॉलेशन।",
+    fullDescEn: "Mirrors bring instant depth, radiance, and luxury to living rooms, vanity counters, powder rooms, and entrance foyers. Offered with integrated warm LED halo glow, organic freeform curves, or classic beveled edges.",
+    fullDescHi: "दर्पण कमरों और वैनिटी में गहराई और रोशनी लाते हैं। वार्म एलईडी बैकलिट ग्लो, ऑर्गेनिक कर्व्स और बेवेल्ड किनारों के साथ।",
+    image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+    featuresEn: ["Warm LED backlighting options", "Custom organic & geometric shapes", "Beveled edge polishing", "Foyer & vanity statement pieces"],
+    featuresHi: ["वार्म एलईडी बैकलाइट विकल्प", "कस्टम ऑर्गेनिक व ज्यामितीय आकार", "बेवेल्ड एज पॉलिशिंग", "लक्ज़री वैनिटी डिज़ाइन"],
+    tag: "Luminous Décor"
+  },
+  {
+    id: "decorative-glass",
+    titleEn: "Decorative Glass",
+    titleHi: "डेकोरेटिव (सजावटी) ग्लास",
+    shortDescEn: "Textured, fluted, reeded, tinted, and patterned decorative glass bringing tactile beauty and subtle privacy to interior spaces.",
+    shortDescHi: "टेक्सचर्ड, फ्लूटेड, रीइडेड, टिंटेड और पैटर्न ग्लास जो आंतरिक स्थानों में गोपनीयता और सुंदरता लाते हैं।",
+    fullDescEn: "Add visual rhythm and vintage architectural character to cabinet shutters, feature wall panels, wardrobe inserts, and decorative room dividers. Gently refracts light while providing comfortable visual privacy.",
+    fullDescHi: "कैबिनेट, अलमारी, वॉल पैनल और सजावटी डिवाइडर के लिए विंटेज वास्तुशिल्प सुंदरता। प्रकाश को सुंदर ढंग से बिखेरता है।",
+    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=1200&q=80",
+    featuresEn: ["Fluted, reeded & ribbed textures", "Warm champagne & bronze tints", "Wardrobe & cabinet inserts", "Light-refracting privacy"],
+    featuresHi: ["फ्लूटेड और रिब्ड टेक्सचर", "शैम्पेन और ब्रॉन्ज टिंट्स", "अलमारी व कैबिनेट शटर", "प्रकाश विवर्तन और गोपनीयता"],
+    tag: "Textural Elegance"
+  },
+  {
+    id: "frosted-glass",
+    titleEn: "Frosted Glass",
+    titleHi: "फ्रॉस्टेड (धुंधला) ग्लास",
+    shortDescEn: "Uniform satin-etched and gradient privacy glass that diffuses glare, balances softness, and preserves daylight transmission.",
+    shortDescHi: "सैटिन-फिनिश गोपनीयता ग्लास जो चकाचौंध को कम करता है, प्रकाश को फैलाता है और निजता बनाए रखता है।",
+    fullDescEn: "Ideal for conference rooms, master bathrooms, home clinic consultations, and private living alcoves where discretion is paramount without losing the spacious feeling of daylight.",
+    fullDescHi: "कॉन्फ्रेंस रूम, बाथरूम और निजी केबिन के लिए आदर्श जहां प्राकृतिक दिन के उजाले को रोके बिना गोपनीयता आवश्यक है।",
+    image: "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    featuresEn: ["Uniform velvet satin finish", "Custom geometric opacity bands", "Resistant to fingerprint smudges", "Maintains natural day illumination"],
+    featuresHi: ["वेलवेट सैटिन फिनिश", "कस्टम अपारदर्शिता बैंड", "उंगलियों के निशान प्रतिरोधी", "प्राकृतिक रोशनी बनाए रखता है"],
+    tag: "Daylight Privacy"
+  }
+];

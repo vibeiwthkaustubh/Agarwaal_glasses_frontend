@@ -1,0 +1,41 @@
+Agarwal_glasses frontend/
+├── public/
+│   ├── favicon.svg               (Custom AG monogram favicon)
+│   └── logo.svg                  (Vector brand logo)
+├── src/
+│   ├── components/
+│   │   ├── Footer.jsx            (Verified footer with quick links)
+│   │   ├── Logo.jsx              (Reusable SVG logo: horizontal, compact, stacked)
+│   │   ├── Navbar.jsx            (Floating sticky navbar with language toggle)
+│   │   ├── ProjectCard.jsx       (Project card with 1.05x hover zoom & touch states)
+│   │   ├── ProjectModal.jsx      (Interactive preview & 'Request Similar Design')
+│   │   ├── SectionHeading.jsx    (Luxury serif section title component)
+│   │   ├── ServiceCard.jsx       (Service card with hover & quick enquire)
+│   │   ├── ServiceModal.jsx      (Service specification details modal)
+│   │   ├── SiteVisitModal.jsx    (Modal form to schedule site survey)
+│   │   └── WhatsAppButton.jsx    (Reusable official WhatsApp click-to-chat)
+│   ├── context/
+│   │   └── LanguageContext.jsx   (EN | हिन्दी language state provider)
+│   ├── data/
+│   │   ├── projects.js           (Curated architectural concept projects)
+│   │   ├── services.js           (The 7 core glass services)
+│   │   └── translations.js       (Complete EN & HI translation dictionary)
+│   ├── sections/
+│   │   ├── Hero.jsx              (Hero section with entrance animations)
+│   │   ├── About.jsx             (Split layout & 4 verified pillars)
+│   │   ├── Services.jsx          (7 services grid)
+│   │   ├── Projects.jsx          (Filterable gallery)
+│   │   ├── WhyChooseUs.jsx       (5 core values)
+│   │   ├── Process.jsx           (6-step workflow timeline)
+│   │   ├── CTA.jsx               (Striking CTA banner)
+│   │   └── Contact.jsx           (Business details, map, & WhatsApp form)
+│   ├── styles/
+│   │   └── index.css             (Tailwind directives, luxury scrollbar & glass utilities)
+│   ├── App.jsx                   (App wrapper with background layering)
+│   └── main.jsx                  (Entry point)
+├── index.html                    (SEO meta tags, Google Fonts, Schema.org JSON-LD)
+├── package.json                  (Dependencies & scripts)
+├── postcss.config.js             (PostCSS configuration)
+├── tailwind.config.js            (Custom luxury palette tokens & typography)
+├── vite.config.js                (Vite server & build configuration)
+└── README.md                     (Documentation, setup & image replacement guide)
